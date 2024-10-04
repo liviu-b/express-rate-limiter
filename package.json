@@ -2,9 +2,9 @@
   "name": "@lbanc/express-rate-limiter",
   "version": "1.0.0",
   "main": "index.js",
-  "description": "",
+  "description": "A customizable and flexible middleware for Express.js to limit repeated requests to your API endpoints.",
   "type": "module",
-  
+
   "scripts": {
     "test": "mocha"
   },
